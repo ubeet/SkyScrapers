@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a7ff8527dfd43a29cd74763a696a072, type: 3}
+  m_Name: Height_3_3
+  m_EditorClassIdentifier: 
+  instance: {fileID: 7879033264892652517, guid: 57fc918a1e426a4489ed7741048d4884, type: 3}
+  mesh: {fileID: -2432090755550338912, guid: 1a3dd3366511f104faf828876d1e53f2, type: 3}
+  renderer: {fileID: 0}
+  LeftFront: 1
+  RightFront: 1
+  LeftRear: 1
+  RightRear: 1
+  Rear: 1

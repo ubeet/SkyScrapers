@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78f9519246415594ba7bd926ba9ab15a, type: 3}
+  m_Name: RootData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  MenuScene:
+    sceneAsset: {fileID: 0}
+    scenePath: 
+  CampaignScene:
+    sceneAsset: {fileID: 0}
+    scenePath: 
+  stages: []
+  Difficulties: []
+  CurrentStage: {fileID: 11400000, guid: e5cb9d3aea661934e8d12baf1a55ccee, type: 2}
+  containers:
+  - {fileID: 11400000, guid: 14b04b4b45a5bfb4189f5f336c6df0a6, type: 2}
+  - {fileID: 11400000, guid: 398c7aff9224cb24e94a129a0b9dfd01, type: 2}
+  - {fileID: 11400000, guid: 99c4bbca11442944597036723387b2c6, type: 2}
+  - {fileID: 11400000, guid: c2fa6c8ce01bd7f4192e7d89c689ae30, type: 2}
+  - {fileID: 11400000, guid: ea13b9dc0a9b80944bae2aff2295e00a, type: 2}
+  - {fileID: 11400000, guid: 291622172bc3e3d46b791aa0deb74675, type: 2}
+  - {fileID: 11400000, guid: 6ec098084f943634daffb6206b1f9274, type: 2}
+  - {fileID: 11400000, guid: 345d21fdf85af094d857bbf7bd37065f, type: 2}
+  - {fileID: 11400000, guid: 345d21fdf85af094d857bbf7bd37065f, type: 2}
+  - {fileID: 11400000, guid: 1c2a65461ec02214e9e7c6250154418c, type: 2}
+  - {fileID: 11400000, guid: 1d1ddd796403cd547b28d7f4061138d8, type: 2}
+  botMinSolveTime: 30
+  BotSolveProgressionCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79bb9f3a8c084f53b1389c848cacbf80, type: 3}
+  m_Name: Islands
+  m_EditorClassIdentifier: 
+  Center:
+  - {fileID: 8103419946665133729, guid: 3e3ae9d88957c914181881f8639babc0, type: 3}
+  Side:
+  - {fileID: 7252386879753541687, guid: d42006706af1558499d74cb1d4d7b212, type: 3}
+  - {fileID: 5978952561690281095, guid: 05144ab274ba7b84f97ac55112279500, type: 3}
+  - {fileID: 888390102055278565, guid: 6d70c24654963f74ab0d0c33178106a9, type: 3}
+  Angle:
+  - {fileID: 2584128753479034580, guid: 38a3c553efb9ab345939d8e9957e318c, type: 3}
+  - {fileID: 8534131207116272905, guid: 9bb74182b361d4b468ca34791e958f6d, type: 3}
+  - {fileID: 428175955844356256, guid: 1a620a29cf7f1c24ba0913e8b39323b2, type: 3}
+  - {fileID: 6621711548974303531, guid: 62f918b769ea65a458f34a945318510c, type: 3}

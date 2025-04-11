@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 262f8fca16cb4abd8cc55cc1961b5fd9, type: 3}
+  m_Name: Decorations
+  m_EditorClassIdentifier: 
+  decorations:
+  - {fileID: 6017673111602293625, guid: a8fd731e46f04814ea41e517f893bb63, type: 3}
+  - {fileID: 4922093660276235398, guid: 526a9383b779ff342b982a50d0c48907, type: 3}
+  - {fileID: 2699720730181808254, guid: 4cdc218f619ad6d49baef8bb18bb42f1, type: 3}
+  - {fileID: 3761833691785804616, guid: 581fc245f70e31e489829ec976a2922b, type: 3}
+  - {fileID: 6866332311143378239, guid: 167d8cd8bc846f149ae97affcf696fa6, type: 3}
+  - {fileID: 1017722849715085022, guid: c12046f1e6115d64d9140dbc4d7d903f, type: 3}

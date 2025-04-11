@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b6c5ea5b6e24a3ca410239148e4fafa, type: 3}
+  m_Name: HeightContainer_3
+  m_EditorClassIdentifier: 
+  Height: 3
+  Instances:
+  - {fileID: 11400000, guid: 3fa76519d1316534da7e34a98abd350b, type: 2}
+  - {fileID: 11400000, guid: e1e266f78ee803e49ba380d28285894d, type: 2}
+  - {fileID: 11400000, guid: f0da6c01756064248b928a5d4cd3396a, type: 2}
